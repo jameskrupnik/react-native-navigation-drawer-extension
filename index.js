@@ -31,4 +31,5 @@ Navigation.dismissDrawer = componentId => {
   // });
 };
 
-export RNNDrawer from "./RNNDrawer";
+import RNNDrawer from "./RNNDrawer";
+export { RNNDrawer }
